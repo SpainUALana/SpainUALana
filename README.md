@@ -1,6 +1,6 @@
 <!-- ENGLISH VERSION -->
 
-# Svitlana Turkina
+# Svitlana Túrkina
 **Independent Administrative & Document Services Professional (Freelance)**
 
 [🔗 LinkedIn](https://www.linkedin.com/in/uasp/) · [✈️ Telegram](https://t.me/SpainUALana) · [ℹ️ IAE/CNAE activity](https://sede.agenciatributaria.gob.es/Sede/buscador-iae.html?q=tratamiento+datos&pepigrafe=772&pfiltersec=2&detalle=y)
@@ -45,7 +45,7 @@ Google Workspace, Excel/Sheets, WordPress, HTML/CSS (basic), Canva, ClickUp, Sla
 
 <!-- VERSIÓN EN ESPAÑOL -->
 
-# Svitlana Turkina
+# Svitlana Túrkina
 
 **Profesional independiente en Servicios Administrativos y Documentales (Freelance)**
 
